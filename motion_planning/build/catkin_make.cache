@@ -1,0 +1,2 @@
+cartesian_control:forward_kinematics:jc4872_asgn44:lwr_robot/lwr_defs:lwr_robot_moveit_config:motion_planning:robot_sim:ur5_moveit_config:ur_description
+-DCATKIN_DEVEL_PREFIX=/home/jinzhao/catkin_ws4/devel -DCMAKE_INSTALL_PREFIX=/home/jinzhao/catkin_ws4/install -G Unix Makefiles

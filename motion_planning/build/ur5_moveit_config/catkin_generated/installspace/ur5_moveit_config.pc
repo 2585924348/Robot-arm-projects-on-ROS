@@ -1,0 +1,8 @@
+prefix=/home/jinzhao/catkin_ws4/install
+
+Name: ur5_moveit_config
+Description: Description of ur5_moveit_config
+Version: 1.2.0
+Cflags: 
+Libs: -L/home/jinzhao/catkin_ws4/install/lib 
+Requires: 

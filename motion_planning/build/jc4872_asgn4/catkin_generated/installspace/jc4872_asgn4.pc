@@ -1,0 +1,8 @@
+prefix=/home/jinzhao/catkin_ws4/install
+
+Name: jc4872_asgn4
+Description: Description of jc4872_asgn4
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jinzhao/catkin_ws4/install/lib 
+Requires: 

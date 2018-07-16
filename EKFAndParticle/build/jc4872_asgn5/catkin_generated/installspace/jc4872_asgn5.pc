@@ -1,0 +1,8 @@
+prefix=/home/jinzhao/catkin_ws5/install
+
+Name: jc4872_asgn5
+Description: Description of jc4872_asgn5
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jinzhao/catkin_ws5/install/lib 
+Requires: 

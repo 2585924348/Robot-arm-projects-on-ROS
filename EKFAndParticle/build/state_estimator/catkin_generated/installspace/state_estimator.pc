@@ -1,0 +1,8 @@
+prefix=/home/jinzhao/catkin_ws5/install
+
+Name: state_estimator
+Description: Description of state_estimator
+Version: 0.0.0
+Cflags: -I/home/jinzhao/catkin_ws5/install/include
+Libs: -L/home/jinzhao/catkin_ws5/install/lib 
+Requires: rospy std_msgs message_runtime
